@@ -91,5 +91,11 @@ mini-frontend-projects/
 
 ---
 
-Would you like me to **add a sample LICENSE file (MIT)** and a **custom banner image (for top of README)** to make it look more professional on GitHub?
+## 🔗 Live Demos
+- [Cotton Cave](https://anuj-knirmal.github.io/mini-frontend-projects/cotton-cave/)
+- [Grid Project](https://anuj-knirmal.github.io/mini-frontend-projects/gridproject/)
+- [Jacket Shop](https://anuj-knirmal.github.io/mini-frontend-projects/jacketshop/)
+- [Trendline](https://anuj-knirmal.github.io/mini-frontend-projects/trendline/)
+- [Spotify Clone](https://anuj-knirmal.github.io/mini-frontend-projects/spotify/)
+
    
