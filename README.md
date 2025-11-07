@@ -90,12 +90,3 @@ mini-frontend-projects/
 | **License** | Makes it open source and professional. |
 
 ---
-
-## 🔗 Live Demos
-- [Cotton Cave](https://anuj-knirmal.github.io/mini-frontend-projects/cotton-cave/index.html)
-- [Grid Project](https://anuj-knirmal.github.io/mini-frontend-projects/grid-project/index.html)
-- [Jacket Shop](https://anuj-knirmal.github.io/mini-frontend-projects/jacket-shop/index.html)
-- [Trendline](https://anuj-knirmal.github.io/mini-frontend-projects/trendline/index.html)
-- [Spotify Clone](https://anuj-knirmal.github.io/mini-frontend-projects/spotify/index.html)
-
-   
