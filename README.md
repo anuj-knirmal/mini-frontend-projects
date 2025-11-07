@@ -92,10 +92,10 @@ mini-frontend-projects/
 ---
 
 ## 🔗 Live Demos
-- [Cotton Cave](https://anuj-knirmal.github.io/mini-frontend-projects/cotton-cave/)
-- [Grid Project](https://anuj-knirmal.github.io/mini-frontend-projects/gridproject/)
-- [Jacket Shop](https://anuj-knirmal.github.io/mini-frontend-projects/jacketshop/)
-- [Trendline](https://anuj-knirmal.github.io/mini-frontend-projects/trendline/)
-- [Spotify Clone](https://anuj-knirmal.github.io/mini-frontend-projects/spotify/)
+- [Cotton Cave](https://anuj-knirmal.github.io/mini-frontend-projects/cotton-cave/index.html)
+- [Grid Project](https://anuj-knirmal.github.io/mini-frontend-projects/grid-project/index.html)
+- [Jacket Shop](https://anuj-knirmal.github.io/mini-frontend-projects/jacket-shop/index.html)
+- [Trendline](https://anuj-knirmal.github.io/mini-frontend-projects/trendline/index.html)
+- [Spotify Clone](https://anuj-knirmal.github.io/mini-frontend-projects/spotify/index.html)
 
    
